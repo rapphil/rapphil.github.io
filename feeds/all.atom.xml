@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Raphael dev notes</title><link href="rapphil.github.io/" rel="alternate"></link><link href="rapphil.github.io/feeds/all.atom.xml" rel="self"></link><id>rapphil.github.io/</id><updated>2019-03-04T00:00:00-08:00</updated><entry><title>Multimaster replication in Postgresql with BDR</title><link href="rapphil.github.io/multimaster-replication-in-postgresql-with-bdr.html" rel="alternate"></link><published>2019-03-04T00:00:00-08:00</published><updated>2019-03-04T00:00:00-08:00</updated><author><name>Raphael Silva</name></author><id>tag:None,2019-03-04:rapphil.github.io/multimaster-replication-in-postgresql-with-bdr.html</id><summary type="html">&lt;h1&gt;Installing PostgreSQL&lt;/h1&gt;
+&lt;h1&gt;Handling sequences&lt;/h1&gt;
+&lt;h1&gt;Migrating your database to BDR.&lt;/h1&gt;</summary><content type="html">&lt;h1&gt;Installing PostgreSQL&lt;/h1&gt;
+&lt;h1&gt;Handling sequences&lt;/h1&gt;
+&lt;h1&gt;Migrating your database to BDR.&lt;/h1&gt;</content></entry></feed>
